@@ -1,0 +1,26 @@
+body {
+  background: url(images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#profile-image {
+    height: 250px;
+    width: 250px;
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.transparent-button {
+	background:none;
+    border:none;
+    box-shadow:none;
+}
+
+a {
+    color: #D8D8D8;
+}
