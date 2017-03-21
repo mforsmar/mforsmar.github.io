@@ -6,7 +6,7 @@ body {
   background-size: cover;
 }
 
-#profile-image {
+.profile-image {
     height: 250px;
     width: 250px;
     margin-top: 250px;
